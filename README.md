@@ -23,7 +23,7 @@ I'm Sumit, a Full Stack Web Application Developer and Content Creator on [Youtub
 
 [![React Playlist](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://lwsbd.link/react) [![Node Playlist](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://lwsbd.link/node) [![TypeScript Playlist](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://lwsbd.link/ts) [![JavaScript Playlist](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://lwsbd.link/thinkjs)
 
-### 📺 Latest YouTube Videos
+### 📺 &emsp;Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Problem Solving Skills and it's Importance to a Programmer's Career  - Talk with Sumit Episode 3](https://www.youtube.com/watch?v=3nOEGdb-eeA)
 - [#2 JavaScript Tips and Tricks - JavaScript Job Interview Questions - Bangla](https://www.youtube.com/watch?v=E9_R88eKcBM)
