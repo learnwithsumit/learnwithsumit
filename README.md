@@ -25,6 +25,11 @@ I'm Sumit, a Full Stack Web Application Developer and Content Creator on [Youtub
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Problem Solving Skills and it's Importance to a Programmer's Career  - Talk with Sumit Episode 3](https://www.youtube.com/watch?v=3nOEGdb-eeA)
+- [#2 JavaScript Tips and Tricks - JavaScript Job Interview Questions - Bangla](https://www.youtube.com/watch?v=E9_R88eKcBM)
+- [#26 React Styled Components Tutorial - React Styling - CSS in JS - React Tutorial Bangla Series](https://www.youtube.com/watch?v=RqwnR2osQqc)
+- [Freelancing Bangladesh - How to find work as a freelance web developer  - Talk with Sumit Episode 2](https://www.youtube.com/watch?v=LpYD_wg6uQs)
+- [#1 JavaScript Tips and Tricks - JavaScript Job Interview Questions - Bangla](https://www.youtube.com/watch?v=cdv4kM8MwsY)
 <!-- YOUTUBE:END -->
 
 #### Business
