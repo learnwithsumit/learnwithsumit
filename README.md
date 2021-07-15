@@ -40,7 +40,7 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="https://image.f
       <td>7.8K installs</td>
     </tr>
     <tr>
-      <td><a href="https://listenyzen.com" target="_blank">Listenyzen</a></td>
+      <td>Listenyzen</td>
       <td>AI powered Social Media Customer Query Aggregator & Analytics SAAS tool</td>
       <td>65+ clients</td>
     </tr>
