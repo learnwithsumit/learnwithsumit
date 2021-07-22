@@ -54,11 +54,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="https://image.f
 
 ### 📺 &emsp;Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [#3 JavaScript Tips and Tricks - JavaScript Job Interview Questions - Bangla](https://www.youtube.com/watch?v=U7jIVDdM0fw)
 - [Career Opportunities at Startups in Bangladesh  - Talk with Sumit Episode 4](https://www.youtube.com/watch?v=NzTOgoZrq30)
 - [#27 React Router Tutorial Bangla - React Router DOM Complete Guide - React Tutorial Bangla Series](https://www.youtube.com/watch?v=vOdW8JsmB5c)
 - [Problem Solving Skills and it's Importance to a Programmer's Career  - Talk with Sumit Episode 3](https://www.youtube.com/watch?v=3nOEGdb-eeA)
 - [#2 JavaScript Tips and Tricks - JavaScript Job Interview Questions - Bangla](https://www.youtube.com/watch?v=E9_R88eKcBM)
-- [#26 React Styled Components Tutorial - React Styling - CSS in JS - React Tutorial Bangla Series](https://www.youtube.com/watch?v=RqwnR2osQqc)
 <!-- YOUTUBE:END -->
 
 #### Business
