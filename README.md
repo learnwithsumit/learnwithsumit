@@ -54,11 +54,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="https://image.f
 
 ### 📺 &emsp;Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Software Engineering Career Advice by Sumit Saha](https://www.youtube.com/watch?v=GNB-lK_cAXo)
 - [Github Copilot Review Bangla - will it replace programmers?](https://www.youtube.com/watch?v=2uQYzZAHy5I)
 - [Role of Courses in Learning Web Development - Talk with Sumit Episode 7](https://www.youtube.com/watch?v=9juFbA8Eg5g)
 - [Life at Google - Know from a Googler Sreejoy Halder - Talk with Sumit Episode 6](https://www.youtube.com/watch?v=r4pILFYFHoU)
 - [Getting started with webdevelopment - MERN Stack Web Development Roadmap - Sumit Saha](https://www.youtube.com/watch?v=qta6D8SHhMI)
-- [PHP Developer Career Growth & Opportunities  - Talk with Sumit Episode 5](https://www.youtube.com/watch?v=_39qPxr6e2Y)
 <!-- YOUTUBE:END -->
 
 #### Business
