@@ -54,11 +54,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="https://image.f
 
 ### 📺 &emsp;Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Career Opportunities as DevOps Engineer  - Talk with Sumit Episode 8](https://www.youtube.com/watch?v=JoXOwPPK-aM)
-- [Software Engineering Career Advice by Sumit Saha](https://www.youtube.com/watch?v=GNB-lK_cAXo)
-- [Github Copilot Review Bangla - will it replace programmers?](https://www.youtube.com/watch?v=2uQYzZAHy5I)
-- [Role of Courses in Learning Web Development - Talk with Sumit Episode 7](https://www.youtube.com/watch?v=9juFbA8Eg5g)
-- [Life at Google - Know from a Googler Sreejoy Halder - Talk with Sumit Episode 6](https://www.youtube.com/watch?v=r4pILFYFHoU)
+- [#03 JavaScript Bangla Tutorial | JavaScript Statement](https://www.youtube.com/watch?v=vXHefJiJM24)
+- [#14 JavaScript Bangla Tutorial | JavaScript Events](https://www.youtube.com/watch?v=TUl3pl5ODcU)
+- [#13 JavaScript Bangla Tutorial | JavaScript Object](https://www.youtube.com/watch?v=WWhlEWOf2ww)
+- [#12 JavaScript Bangla Tutorial | JavaScript Function](https://www.youtube.com/watch?v=o-wx8CJ8W2g)
+- [#09 JavaScript Bangla Tutorial | JavaScript Operators](https://www.youtube.com/watch?v=UzPsbiJjqsA)
 <!-- YOUTUBE:END -->
 
 #### Business
