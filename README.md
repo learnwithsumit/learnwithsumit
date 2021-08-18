@@ -54,11 +54,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="https://image.f
 
 ### 📺 &emsp;Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to become a Web Developer from Non CSE Background  - Talk with Sumit Episode 9](https://www.youtube.com/watch?v=fd8a-8ujfyc)
 - [#03 JavaScript Bangla Tutorial | JavaScript Statement](https://www.youtube.com/watch?v=vXHefJiJM24)
 - [#14 JavaScript Bangla Tutorial | JavaScript Events](https://www.youtube.com/watch?v=TUl3pl5ODcU)
 - [#13 JavaScript Bangla Tutorial | JavaScript Object](https://www.youtube.com/watch?v=WWhlEWOf2ww)
 - [#12 JavaScript Bangla Tutorial | JavaScript Function](https://www.youtube.com/watch?v=o-wx8CJ8W2g)
-- [#09 JavaScript Bangla Tutorial | JavaScript Operators](https://www.youtube.com/watch?v=UzPsbiJjqsA)
 <!-- YOUTUBE:END -->
 
 #### Business
