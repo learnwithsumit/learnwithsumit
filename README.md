@@ -54,11 +54,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="https://image.f
 
 ### 📺 &emsp;Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Career opportunities for a Wordpress Developer  - Talk with Sumit Episode 11](https://www.youtube.com/watch?v=UPTni8msclw)
 - [Understanding React JS Hooks - Live Webinar by Sumit Saha](https://www.youtube.com/watch?v=JVEGvvPvriY)
 - [Importance of Data Structures and Algorithms in JavaScript  - Talk with Sumit Episode 10](https://www.youtube.com/watch?v=tVJ-KuMWXPU)
 - [How to become a Web Developer from Non CSE Background  - Talk with Sumit Episode 9](https://www.youtube.com/watch?v=fd8a-8ujfyc)
 - [#03 JavaScript Bangla Tutorial | JavaScript Statement](https://www.youtube.com/watch?v=vXHefJiJM24)
-- [#14 JavaScript Bangla Tutorial | JavaScript Events](https://www.youtube.com/watch?v=TUl3pl5ODcU)
 <!-- YOUTUBE:END -->
 
 #### Business
