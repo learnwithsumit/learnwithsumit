@@ -54,11 +54,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="https://image.f
 
 ### 📺 &emsp;Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Career opportunities for a MERN Stack Developer  - Talk with Sumit Episode 12](https://www.youtube.com/watch?v=XxPVKdOK88g)
 - [#31 React Project Tutorial - Quiz Application with Firebase - Part 4](https://www.youtube.com/watch?v=xuhlsOVVfks)
 - [#33 React Project Tutorial - Quiz Application with Firebase - Part 6](https://www.youtube.com/watch?v=wGBOvtLixCU)
 - [#40 React Project Tutorial - Quiz Application with Firebase - Part 13](https://www.youtube.com/watch?v=KcSgAFZqIK0)
 - [#39 React Project Tutorial - Quiz Application with Firebase - Part 12](https://www.youtube.com/watch?v=jCZrhX3zKHk)
-- [#42 React Project Tutorial - Quiz Application with Firebase - Part 15](https://www.youtube.com/watch?v=ngXw9L-j9AI)
 <!-- YOUTUBE:END -->
 
 #### Business
