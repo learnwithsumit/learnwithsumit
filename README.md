@@ -54,11 +54,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="https://image.f
 
 ### 📺 &emsp;Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Story of Failure & Success - Anisul Islam & Sumit Saha  - Talk with Sumit Episode 13](https://www.youtube.com/watch?v=UZLVuxn2EJo)
 - [#60 JavaScript Bangla Tutorial | JavaScript Reserved Words](https://www.youtube.com/watch?v=k9Td060UYVY)
 - [#49 JavaScript Bangla Tutorial | JavaScript Hoisting](https://www.youtube.com/watch?v=zKa_GH0uPOM)
 - [#48 JavaScript Bangla Tutorial | JavaScript Scope](https://www.youtube.com/watch?v=wqgsnyxsaLE)
 - [#51 JavaScript Bangla Tutorial | JavaScript this keyword](https://www.youtube.com/watch?v=iMbMR86liyE)
-- [#46 JavaScript Bangla Tutorial | Regular Expressions](https://www.youtube.com/watch?v=hH5-XwMLrP0)
 <!-- YOUTUBE:END -->
 
 #### Business
