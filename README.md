@@ -54,7 +54,7 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="https://image.f
 
 ### 📺 &emsp;Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Android Developer Career Path    Talk with Sumit Episode 14](https://www.youtube.com/watch?v=yv7RQH5UAZk)
+- [Android Developer Career Path - Talk with Sumit Episode 14](https://www.youtube.com/watch?v=yv7RQH5UAZk)
 - [Story of Failure & Success - Anisul Islam & Sumit Saha  - Talk with Sumit Episode 13](https://www.youtube.com/watch?v=UZLVuxn2EJo)
 - [#60 JavaScript Bangla Tutorial | JavaScript Reserved Words](https://www.youtube.com/watch?v=k9Td060UYVY)
 - [#49 JavaScript Bangla Tutorial | JavaScript Hoisting](https://www.youtube.com/watch?v=zKa_GH0uPOM)
