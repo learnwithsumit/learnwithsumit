@@ -54,11 +54,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="https://image.f
 
 ### 📺 &emsp;Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Learn with Sumit 40K Celebration Grand Tech Adda](https://www.youtube.com/watch?v=7abjpeLbxmM)
-- [Software Requirement Engineering & it's Business Impact - Talk with Sumit Episode 15](https://www.youtube.com/watch?v=uBdu6dzyJ0k)
-- [Android Developer Career Path - Talk with Sumit Episode 14](https://www.youtube.com/watch?v=yv7RQH5UAZk)
-- [Story of Failure & Success - Anisul Islam & Sumit Saha  - Talk with Sumit Episode 13](https://www.youtube.com/watch?v=UZLVuxn2EJo)
-- [#60 JavaScript Bangla Tutorial | JavaScript Reserved Words](https://www.youtube.com/watch?v=k9Td060UYVY)
+- [#72 JavaScript Bangla Tutorial | JavaScript Function Definitions](https://www.youtube.com/watch?v=qP3qTsKbAnc)
+- [#70 JavaScript Bangla Tutorial | JavaScript Object Sets](https://www.youtube.com/watch?v=h8Wr_Flq3Nk)
+- [#75 JavaScript Bangla Tutorial | JavaScript Function call()](https://www.youtube.com/watch?v=_MFUxQ7OXbI)
+- [#65 JavaScript Bangla Tutorial | JavaScript Object Display](https://www.youtube.com/watch?v=XC8rVZ4Kcvw)
+- [#66 JavaScript Bangla Tutorial | JavaScript Object Accessors](https://www.youtube.com/watch?v=WQ1iiWgtTxQ)
 <!-- YOUTUBE:END -->
 
 #### Business
