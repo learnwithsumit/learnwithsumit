@@ -55,10 +55,10 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="https://image.f
 ### 📺 &emsp;Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Difference between C/C++, Java & Python - Talk with Sumit Episode 18](https://www.youtube.com/watch?v=JnOYnGlCQnM)
+- [Tailwind CSS Tutorial Bangla - Introduction to Tailwind CSS](https://www.youtube.com/watch?v=smDa6hoxLKI)
 - [#72 JavaScript Bangla Tutorial | JavaScript Function Definitions](https://www.youtube.com/watch?v=qP3qTsKbAnc)
 - [#70 JavaScript Bangla Tutorial | JavaScript Object Sets](https://www.youtube.com/watch?v=h8Wr_Flq3Nk)
 - [#75 JavaScript Bangla Tutorial | JavaScript Function call()](https://www.youtube.com/watch?v=_MFUxQ7OXbI)
-- [#65 JavaScript Bangla Tutorial | JavaScript Object Display](https://www.youtube.com/watch?v=XC8rVZ4Kcvw)
 <!-- YOUTUBE:END -->
 
 #### Business
