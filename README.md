@@ -54,11 +54,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="https://image.f
 
 ### 📺 &emsp;Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Front-End Developer Roadmap 2021  - Talk with Sumit Episode 19](https://www.youtube.com/watch?v=go9k_9eQc4Y)
+- [Python Django Career Opportunities & Learning Roadmap  - Talk with Sumit Episode 16](https://www.youtube.com/watch?v=EOAat1Rb_Oc)
 - [Difference between C/C++, Java & Python - Talk with Sumit Episode 18](https://www.youtube.com/watch?v=JnOYnGlCQnM)
 - [Tailwind CSS Tutorial Bangla - Introduction to Tailwind CSS](https://www.youtube.com/watch?v=smDa6hoxLKI)
 - [#72 JavaScript Bangla Tutorial | JavaScript Function Definitions](https://www.youtube.com/watch?v=qP3qTsKbAnc)
-- [#70 JavaScript Bangla Tutorial | JavaScript Object Sets](https://www.youtube.com/watch?v=h8Wr_Flq3Nk)
-- [#75 JavaScript Bangla Tutorial | JavaScript Function call()](https://www.youtube.com/watch?v=_MFUxQ7OXbI)
 <!-- YOUTUBE:END -->
 
 #### Business
