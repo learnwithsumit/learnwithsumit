@@ -54,11 +54,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="https://image.f
 
 ### 📺 &emsp;Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Career Opportunities for an iOS Developer   Talk with Sumit   Episode 17](https://www.youtube.com/watch?v=wWo0dEemQEw)
-- [How to design the Backend of a Website or Web Application - Talk with Sumit Ep 20](https://www.youtube.com/watch?v=NfkdznwRadY)
-- [Front-End Developer Roadmap 2021  - Talk with Sumit Episode 19](https://www.youtube.com/watch?v=go9k_9eQc4Y)
-- [Python Django Career Opportunities & Learning Roadmap  - Talk with Sumit Episode 16](https://www.youtube.com/watch?v=EOAat1Rb_Oc)
-- [Difference between C/C++, Java & Python - Talk with Sumit Episode 18](https://www.youtube.com/watch?v=JnOYnGlCQnM)
+- [#01 Introduction | Tailwind CSS Bangla Tutorial](https://www.youtube.com/watch?v=X7XbjwD6fVY)
+- [#05 Hover focus & other state variants | Tailwind CSS Bangla Tutorial](https://www.youtube.com/watch?v=GY7E4Eurb0Q)
+- [#03 Utility-First Approach | Tailwind CSS Bangla Tutorial](https://www.youtube.com/watch?v=HxVdmUGGtJk)
+- [#08 Tailwind @layer Directive - Understand Tailwind Layers | Tailwind CSS Bangla Tutorial](https://www.youtube.com/watch?v=FzqkDsWFpeA)
+- [#02 Tailwind Installation | Tailwind CSS Bangla Tutorial](https://www.youtube.com/watch?v=6LF7y7T0_EU)
 <!-- YOUTUBE:END -->
 
 #### Business
