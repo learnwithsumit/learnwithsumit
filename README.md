@@ -35,7 +35,7 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="https://image.f
   </thead>
   <tbody>
     <tr>
-      <td>Learn with Sumit</td>
+      <td><a href="https://learnwithsumit.com" target="_blank">Learn with Sumit</a></td>
       <td>Programming related Learning Platform for Bangladesh</td>
       <td>100K+ active learners</td>
     </tr>
