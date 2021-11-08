@@ -23,7 +23,7 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="https://image.f
 
 [![React Playlist](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://lwsbd.link/react) [![Node Playlist](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://lwsbd.link/node) [![TypeScript Playlist](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://lwsbd.link/ts) [![JavaScript Playlist](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://lwsbd.link/thinkjs)
 
-### My Projects
+### My Projects & Ventures
 
 <table>
   <thead align="center">
@@ -34,6 +34,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="https://image.f
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>Learn with Sumit</td>
+      <td>Programming related Learning Platform for Bangladesh</td>
+      <td>100K+ active learners</td>
+    </tr>
     <tr>
       <td><a href="https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme" target="_blank">Learn with Sumit Theme</a></td>
       <td>Visual Studio Code Editor Theme</td>
@@ -48,6 +53,16 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="https://image.f
       <td><a href="https://analyzenbd.com" target="_blank">Analyzen</a></td>
       <td>First ever & largest Digital Marketing Agency in Bangladesh</td>
       <td>120+ clients</td>
+    </tr>
+    <tr>
+      <td>Prism</td>
+      <td>Complete Sales Automation & ERP Enterprise Solution for British American Tobacco Bangladesh</td>
+      <td>2.5k+ Distributors Nationwide</td>
+    </tr>
+    <tr>
+      <td>Unilever MARS</td>
+      <td>Activation Management Enterprise Solution for Unilever Bangladesh Ltd.</td>
+      <td>20 million+ Consumer Data Managed Already</td>
     </tr>
   </tbody>
 </table>
