@@ -69,11 +69,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="https://image.f
 
 ### 📺 &emsp;Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Tamim Shahriar Subeen - How to develop Problem Solving skills](https://www.youtube.com/watch?v=ZfL-mm1q_hU)
 - [#84 JavaScript Bangla Tutorial | Promises | Asynchronous JavaScript - 4](https://www.youtube.com/watch?v=RLurk_AL6GM)
 - [#82 JavaScript Bangla Tutorial | JS Asynchronous Behavior | Asynchronous JavaScript - 2](https://www.youtube.com/watch?v=VCxRhIhhzxs)
 - [#85 JavaScript Bangla Tutorial | async await explained | Asynchronous JavaScript - 5](https://www.youtube.com/watch?v=93kW8DI54W8)
 - [#83 JavaScript Bangla Tutorial | Callback Pattern | Asynchronous JavaScript - 3](https://www.youtube.com/watch?v=atQ0PNxT3Qc)
-- [#81 JavaScript Bangla Tutorial | Callback Functions | Asynchronous JavaScript - 1](https://www.youtube.com/watch?v=0eSG3_mvFZY)
 <!-- YOUTUBE:END -->
 
 #### Business
