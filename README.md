@@ -2,12 +2,11 @@
 
 ## Hi there my gorgeous friend <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Sumit, a Full Stack Web Application Developer from <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="13"/> Bangladesh and Content Creator on [Youtube](https://youtube.com/learnwithsumit). I Spend most of time coding outstanding projects or recording tutorials.
+I'm Sumit, a Full Stack Web Application Developer from <img src="assets/images/bangladesh.png" width="13"/> Bangladesh and Content Creator on [Youtube](https://youtube.com/learnwithsumit). I Spend most of time coding outstanding projects or recording tutorials.
 
 :coffee: &emsp;Connect with me!
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sumit.analyzen) [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/learnwithsumit) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumitanalyzen/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/learnwithsumit) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sumit_analyzen) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayhitorainmaker@gmail.com)
-
 
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
@@ -68,7 +67,9 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="https://image.f
 </table>
 
 ### 📺 &emsp;Latest YouTube Videos
+
 <!-- YOUTUBE:START -->
+
 - [Tamim Shahriar Subeen - How to develop Problem Solving skills](https://www.youtube.com/watch?v=ZfL-mm1q_hU)
 - [#84 JavaScript Bangla Tutorial | Promises | Asynchronous JavaScript - 4](https://www.youtube.com/watch?v=RLurk_AL6GM)
 - [#82 JavaScript Bangla Tutorial | JS Asynchronous Behavior | Asynchronous JavaScript - 2](https://www.youtube.com/watch?v=VCxRhIhhzxs)
@@ -80,8 +81,7 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="https://image.f
 
 :email: &emsp;sayhitorainmaker@gmail.com
 
-
-#### Profile Visits 
+#### Profile Visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=learnwithsumit.learnwithsumit)
 
