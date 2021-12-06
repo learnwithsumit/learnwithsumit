@@ -69,11 +69,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [#10 @responsive and @screen Directives | Tailwind CSS Bangla Tutorial](https://www.youtube.com/watch?v=cFQH0OJmvIw)
+- [#09 @variants Directive | Tailwind CSS Bangla Tutorial](https://www.youtube.com/watch?v=ZPHsMQSRXlQ)
 - [50K Special Live - Learn with Sumit](https://www.youtube.com/watch?v=o-HxDP6Ev2c)
 - [Exclusive Discount in Full Stack Web Development](https://www.youtube.com/watch?v=p9_BgLtg7LA)
 - [Road to Google - an Inspiring Journey - Fatima Tasnim](https://www.youtube.com/watch?v=vJmHU-XUDo0)
-- [SASS Tutorial in English - Overview of SASS](https://www.youtube.com/watch?v=4tV1Mfi4fMA)
-- [Tamim Shahriar Subeen - How to develop Problem Solving skills](https://www.youtube.com/watch?v=ZfL-mm1q_hU)
 <!-- YOUTUBE:END -->
 
 #### Business
