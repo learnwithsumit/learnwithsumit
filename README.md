@@ -69,11 +69,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [#14 Just in Time - Advanced Concepts | Tailwind CSS Bangla Tutorial](https://www.youtube.com/watch?v=zTS7ZmsPiE8)
+- [#13 PostCSS Installation - Advanced Concepts | Tailwind CSS Bangla Tutorial](https://www.youtube.com/watch?v=txxAqdOVJAM)
 - [#11 theme&lpar;&rpar; and screen&lpar;&rpar; - Tailwind Functions | Tailwind CSS Bangla Tutorial](https://www.youtube.com/watch?v=m71mvBqdNXY)
 - [#12 Tailwind Configurations - Advanced Concepts | Tailwind CSS Bangla Tutorial](https://www.youtube.com/watch?v=f6MmZCXimoE)
 - [#10 @responsive and @screen Directives | Tailwind CSS Bangla Tutorial](https://www.youtube.com/watch?v=cFQH0OJmvIw)
-- [#09 @variants Directive | Tailwind CSS Bangla Tutorial](https://www.youtube.com/watch?v=ZPHsMQSRXlQ)
-- [50K Special Live - Learn with Sumit](https://www.youtube.com/watch?v=o-HxDP6Ev2c)
 <!-- YOUTUBE:END -->
 
 #### Business
