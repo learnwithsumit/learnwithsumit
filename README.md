@@ -69,11 +69,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [#15 Theme Configuration - Advanced Concepts | Tailwind CSS Bangla Tutorial](https://www.youtube.com/watch?v=VTOLMaaTKw0)
-- [#17 Extend Variants - Advanced Concepts | Tailwind CSS Bangla Tutorial](https://www.youtube.com/watch?v=laKTuk-002s)
-- [#16 Extend Theme - Advanced Concepts | Tailwind CSS Bangla Tutorial](https://www.youtube.com/watch?v=Tq4OfBjhkYM)
-- [#14 Just in Time - Advanced Concepts | Tailwind CSS Bangla Tutorial](https://www.youtube.com/watch?v=zTS7ZmsPiE8)
-- [#13 PostCSS Installation - Advanced Concepts | Tailwind CSS Bangla Tutorial](https://www.youtube.com/watch?v=txxAqdOVJAM)
+- [#89 JavaScript Bangla Tutorial | DOM Elements | DOM Tutorial - 4](https://www.youtube.com/watch?v=x0z3XxZ_6ys)
+- [#97 JavaScript Bangla Tutorial | DOM Nodes | DOM Tutorial - 12](https://www.youtube.com/watch?v=bt-xTBqhqEk)
+- [#92 JavaScript Bangla Tutorial | DOM CSS | DOM Tutorial - 7](https://www.youtube.com/watch?v=g1W_ixdu8U8)
+- [#93 JavaScript Bangla Tutorial | DOM Animations | DOM Tutorial - 8](https://www.youtube.com/watch?v=ra-IV5ruCUk)
+- [#87 JavaScript Bangla Tutorial | DOM Methods | DOM Tutorial - 2](https://www.youtube.com/watch?v=_9sJf-zYC3o)
 <!-- YOUTUBE:END -->
 
 #### Business
