@@ -69,11 +69,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [#46 React Router v6 Private Route Tutorial](https://www.youtube.com/watch?v=99RWZsEITx4)
 - [#100 JavaScript Bangla Tutorial | DOM Project JavaScript Tutorial](https://www.youtube.com/watch?v=_WuDDnZMRiE)
 - [How to Learn - Learn from the Mentor](https://www.youtube.com/watch?v=1ECsXb6TnxU)
 - [#89 JavaScript Bangla Tutorial | DOM Elements | DOM Tutorial - 4](https://www.youtube.com/watch?v=x0z3XxZ_6ys)
 - [#97 JavaScript Bangla Tutorial | DOM Nodes | DOM Tutorial - 12](https://www.youtube.com/watch?v=bt-xTBqhqEk)
-- [#92 JavaScript Bangla Tutorial | DOM CSS | DOM Tutorial - 7](https://www.youtube.com/watch?v=g1W_ixdu8U8)
 <!-- YOUTUBE:END -->
 
 #### Business
