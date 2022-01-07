@@ -69,11 +69,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Debounce Function in JavaScript - JavaScript Job Interview question](https://www.youtube.com/watch?v=dD9O8DnIBj4)
 - [#46 React Router v6 Private Route Tutorial](https://www.youtube.com/watch?v=99RWZsEITx4)
 - [#100 JavaScript Bangla Tutorial | DOM Project JavaScript Tutorial](https://www.youtube.com/watch?v=_WuDDnZMRiE)
 - [How to Learn - Learn from the Mentor](https://www.youtube.com/watch?v=1ECsXb6TnxU)
 - [#89 JavaScript Bangla Tutorial | DOM Elements | DOM Tutorial - 4](https://www.youtube.com/watch?v=x0z3XxZ_6ys)
-- [#97 JavaScript Bangla Tutorial | DOM Nodes | DOM Tutorial - 12](https://www.youtube.com/watch?v=bt-xTBqhqEk)
 <!-- YOUTUBE:END -->
 
 #### Business
