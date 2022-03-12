@@ -69,11 +69,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [#18 Tailwind CSS 3 tutorial - Upgrade to Tailwind 3 | Tailwind CSS Bangla Tutorial](https://www.youtube.com/watch?v=4M7D3O2XX4o)
 - [React 18 new features - What&#39;s new in React](https://www.youtube.com/watch?v=K8pzpxfES4U)
 - [Debounce Function in JavaScript - JavaScript Job Interview question](https://www.youtube.com/watch?v=dD9O8DnIBj4)
 - [#46 React Router v6 Private Route Tutorial](https://www.youtube.com/watch?v=99RWZsEITx4)
 - [#100 JavaScript Bangla Tutorial | DOM Project JavaScript Tutorial](https://www.youtube.com/watch?v=_WuDDnZMRiE)
-- [How to Learn - Learn from the Mentor](https://www.youtube.com/watch?v=1ECsXb6TnxU)
 <!-- YOUTUBE:END -->
 
 #### Business
