@@ -69,11 +69,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [#101 JavaScript Bangla Tutorial | Browser Object Model | BOM Tutorial   1](https://www.youtube.com/watch?v=lctGu8Emeyw)
-- [#104 JavaScript Bangla Tutorial | JS Window location | BOM Tutorial   4](https://www.youtube.com/watch?v=s9vFmfI4lCA)
-- [#103 JavaScript Bangla Tutorial | JS Window screen | BOM Tutorial   3](https://www.youtube.com/watch?v=rSfY5R9Rdbw)
-- [#102 JavaScript Bangla Tutorial | JS Window object | BOM Tutorial   2](https://www.youtube.com/watch?v=bxmummkz71g)
-- [#109 JavaScript Bangla Tutorial | JS Cookies | BOM Tutorial   9 mp4](https://www.youtube.com/watch?v=Umr8ezHiVvc)
+- [#114 JavaScript Bangla Tutorial | Web API | Worker API](https://www.youtube.com/watch?v=e2vYFEahiGE)
+- [#115 JavaScript Bangla Tutorial | Web API | Fetch API](https://www.youtube.com/watch?v=clVhRorRQag)
+- [#116 JavaScript Bangla Tutorial | Web API | Geolocation API](https://www.youtube.com/watch?v=M_mDN0woJPg)
+- [#111 JavaScript Bangla Tutorial | Web API | Forms API](https://www.youtube.com/watch?v=iKILnC1OOms)
+- [#110 JavaScript Bangla Tutorial | Web API | Introduction to WEB API](https://www.youtube.com/watch?v=P3cvZG7Xqgk)
 <!-- YOUTUBE:END -->
 
 #### Business
