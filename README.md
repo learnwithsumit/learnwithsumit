@@ -84,6 +84,8 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 #### Business
 
 :email: &emsp;sayhitorainmaker@gmail.com
+:email: &emsp;sumit@learnwithsumit.com
+:email: &emsp;sumit@analyzenbd.com
 
 #### Profile Visits
 
