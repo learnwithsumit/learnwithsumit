@@ -34,7 +34,7 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://learnwithsumit.com" target="_blank">Learn with Sumit</a></td>
+      <td><a href="https://learnwithsumit.com" target="_blank">Learn with Mehedi</a></td>
       <td>Programming related Learning Platform for Bangladesh</td>
       <td>100K+ active learners</td>
     </tr>
@@ -93,9 +93,9 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 
 I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and that's why Learn with Sumit Youtube Channel exists!
 
-#### What is Learn with Sumit?
+#### What is Learn with Mehedi?
 
-"Learn with Sumit" is all about teaching web development skills and techniques in an efficient and practical manner. It has all the tools you need to learn the newest and most popular technologies to convert you from a no stack to full stack developer. I started "Learn with Sumit" in order to share my passion for web development and do what I truly love - teach and inspire new web developers.
+"Learn with Mehedi" is all about teaching web development skills and techniques in an efficient and practical manner. It has all the tools you need to learn the newest and most popular technologies to convert you from a no stack to full stack developer. I started "Learn with Sumit" in order to share my passion for web development and do what I truly love - teach and inspire new web developers.
 
 #### Github Stats
 
