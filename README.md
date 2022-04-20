@@ -63,6 +63,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
       <td>Activation Management Enterprise Solution for Unilever Bangladesh Ltd.</td>
       <td>20 million+ Consumer Data Managed Already</td>
     </tr>
+    <tr>
+      <td>Microzen</td>
+      <td>Microcredit Automation System with AI based Decision Support System</td>
+      <td>10 million+ Consumer Financial Data Managed Already</td>
+    </tr>
   </tbody>
 </table>
 
