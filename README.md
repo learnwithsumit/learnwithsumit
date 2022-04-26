@@ -74,11 +74,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [VS Code Snippets - Boost your productivity with User Snippets](https://www.youtube.com/watch?v=N-U6AVcIPy4)
 - [#114 JavaScript Bangla Tutorial | Web API | Worker API](https://www.youtube.com/watch?v=e2vYFEahiGE)
 - [#115 JavaScript Bangla Tutorial | Web API | Fetch API](https://www.youtube.com/watch?v=clVhRorRQag)
 - [#116 JavaScript Bangla Tutorial | Web API | Geolocation API](https://www.youtube.com/watch?v=M_mDN0woJPg)
 - [#111 JavaScript Bangla Tutorial | Web API | Forms API](https://www.youtube.com/watch?v=iKILnC1OOms)
-- [#110 JavaScript Bangla Tutorial | Web API | Introduction to WEB API](https://www.youtube.com/watch?v=P3cvZG7Xqgk)
 <!-- YOUTUBE:END -->
 
 #### Business
