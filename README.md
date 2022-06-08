@@ -74,11 +74,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [লার্ন উইথ সুমিত ইউটিউব চ্যানেলের ভিডিওগুলো কিভাবে ফলো করবেন](https://www.youtube.com/watch?v=xiPg-L4ZAg4)
-- [যে ১০ টি ভুল বিগিনার রিয়্যাক্ট ডেভেলপাররা করে থাকেন](https://www.youtube.com/watch?v=6O4s7v28nlw)
-- [VS Code Snippets - Boost your productivity with User Snippets](https://www.youtube.com/watch?v=N-U6AVcIPy4)
-- [#114 JavaScript Bangla Tutorial | Web API | Worker API](https://www.youtube.com/watch?v=e2vYFEahiGE)
-- [#115 JavaScript Bangla Tutorial | Web API | Fetch API](https://www.youtube.com/watch?v=clVhRorRQag)
+- [#118 JavaScript Bangla Tutorial | JS AJAX | XMLHttp](https://www.youtube.com/watch?v=xzleywpcicg)
+- [#120 JavaScript Bangla Tutorial | JS AJAX | Response](https://www.youtube.com/watch?v=tB1Z7GRHEp8)
+- [#117 JavaScript Bangla Tutorial | JS AJAX | Introduction to AJAX](https://www.youtube.com/watch?v=dhLWefQTnNo)
+- [#119 JavaScript Bangla Tutorial | JS AJAX | Request](https://www.youtube.com/watch?v=wQgphPeh_Z0)
+- [#121 JavaScript Bangla Tutorial | JS AJAX | Introduction to AJAX](https://www.youtube.com/watch?v=KnbcCJ-c84c)
 <!-- YOUTUBE:END -->
 
 #### Business
