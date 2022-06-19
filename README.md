@@ -74,11 +74,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [CORS কি - What is CORS policy - বাংলা CORS টিউটোরিয়াল](https://www.youtube.com/watch?v=Ry_r8DCj3hw)
 - [#118 JavaScript Bangla Tutorial | JS AJAX | XMLHttp](https://www.youtube.com/watch?v=xzleywpcicg)
 - [#120 JavaScript Bangla Tutorial | JS AJAX | Response](https://www.youtube.com/watch?v=tB1Z7GRHEp8)
 - [#117 JavaScript Bangla Tutorial | JS AJAX | Introduction to AJAX](https://www.youtube.com/watch?v=dhLWefQTnNo)
 - [#119 JavaScript Bangla Tutorial | JS AJAX | Request](https://www.youtube.com/watch?v=wQgphPeh_Z0)
-- [#121 JavaScript Bangla Tutorial | JS AJAX | Introduction to AJAX](https://www.youtube.com/watch?v=KnbcCJ-c84c)
 <!-- YOUTUBE:END -->
 
 #### Business
