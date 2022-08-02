@@ -74,11 +74,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Redux কেন প্রয়োজন - Why Redux - A talk with Jhankar Mahbub](https://www.youtube.com/watch?v=fuAsjgOp-6U)
 - [থিংক ইন এ রিডাক্স ওয়ে কোর্সে কিভাবে এনরোল করবেন](https://www.youtube.com/watch?v=CsSyy0qfuiQ)
 - [Think in a Redux way - paid React Redux course by Learn with Sumit](https://www.youtube.com/watch?v=7InhI8NMsec)
 - [4 ways to fetch fetch data from API in React &lpar;Bangla&rpar; | fetch axios swr and react-query](https://www.youtube.com/watch?v=7exOfIAKuWU)
 - [CORS কি - What is CORS policy - বাংলা CORS টিউটোরিয়াল](https://www.youtube.com/watch?v=Ry_r8DCj3hw)
-- [#118 JavaScript Bangla Tutorial | JS AJAX | XMLHttp](https://www.youtube.com/watch?v=xzleywpcicg)
 <!-- YOUTUBE:END -->
 
 #### Business
