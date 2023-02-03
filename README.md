@@ -74,11 +74,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [What will you get from our Redux course Batch 2 #redux #learnwithsumit](https://www.youtube.com/watch?v=9sjicIW0Wqo)
 - [Think in a Redux way - Batch 2 - React Redux course by Learn with Sumit](https://www.youtube.com/watch?v=xaSFoi3Vfsc)
 - [How to Enroll in Learn with Sumit Think in a Redux way - Batch 2 course](https://www.youtube.com/watch?v=1ih24JFDBhM)
 - [How to write a professional Resume - Resume tips for web developers](https://www.youtube.com/watch?v=Keuvud23JVk)
 - [Sumit Saha Interview on Nagorik TV - Live with a purpose](https://www.youtube.com/watch?v=4mWwZvoFpZc)
-- [২০২২ এ এসে কেন রিয়্যাক্ট শিখবেন - Should you learn react js in 2022 ?](https://www.youtube.com/watch?v=1eFczVsGLYk)
 <!-- YOUTUBE:END -->
 
 #### Business
