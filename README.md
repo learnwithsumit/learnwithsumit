@@ -76,7 +76,7 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 <!-- YOUTUBE:START -->
 - [Is Redux still relevant in 2023?](https://www.youtube.com/watch?v=n1XEDJEHnmI)
 - [আমাদের রিডাক্স কোর্সটি যেভাবে চলবে #shorts](https://www.youtube.com/watch?v=n2fxpYNZWaE)
-- [What will you get from our Redux course Batch 2 #redux #learnwithsumit](https://www.youtube.com/watch?v=9sjicIW0Wqo)
+- [What will you get from our Redux course Batch 2 #shorts](https://www.youtube.com/watch?v=9sjicIW0Wqo)
 - [Think in a Redux way - Batch 2 - React Redux course by Learn with Sumit](https://www.youtube.com/watch?v=xaSFoi3Vfsc)
 - [How to Enroll in Learn with Sumit Think in a Redux way - Batch 2 course](https://www.youtube.com/watch?v=1ih24JFDBhM)
 <!-- YOUTUBE:END -->
