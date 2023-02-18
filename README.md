@@ -74,11 +74,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Learn with Sumit website platform overview - Think in a Redux way course](https://www.youtube.com/watch?v=0AAgbrTFaTo)
 - [How to submit assignment in LWS Platform - Redux course](https://www.youtube.com/watch?v=_AVDbYhsDJc)
 - [Enroll in Think in a Redux way course - Batch 2 #shorts](https://www.youtube.com/watch?v=-K4GN5BFnIE)
 - [Is Redux still relevant in 2023?](https://www.youtube.com/watch?v=n1XEDJEHnmI)
 - [আমাদের রিডাক্স কোর্সটি যেভাবে চলবে #shorts](https://www.youtube.com/watch?v=n2fxpYNZWaE)
-- [What will you get from our Redux course Batch 2 #shorts](https://www.youtube.com/watch?v=9sjicIW0Wqo)
 <!-- YOUTUBE:END -->
 
 #### Business
