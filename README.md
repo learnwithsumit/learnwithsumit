@@ -1,4 +1,4 @@
-![Github Banner](assets/github-banner.png)
+![Github Banner](assets/github-banner.jpg)
 
 ## Hi there my gorgeous friend <img src="assets/hello.gif" width="28px" alt="hi">
 
