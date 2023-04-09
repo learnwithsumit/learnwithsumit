@@ -74,11 +74,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to install React in 2023 - new react.dev Website](https://www.youtube.com/watch?v=DOC3MyuuWhM)
 - [Facing the Future: The Truth About Artificial Intelligence and Our Jobs - Bangla](https://www.youtube.com/watch?v=BihZd2x8Qh8)
 - [Things I wish I knew as a Junior Web Developer - Sumit Saha - BASIS SoftExpo 2023](https://www.youtube.com/watch?v=56zUkaXJnUA)
 - [Learn with Sumit website platform overview - Think in a Redux way course](https://www.youtube.com/watch?v=0AAgbrTFaTo)
 - [How to submit assignment in LWS Platform - Redux course](https://www.youtube.com/watch?v=_AVDbYhsDJc)
-- [Enroll in Think in a Redux way course - Batch 2 #shorts](https://www.youtube.com/watch?v=-K4GN5BFnIE)
 <!-- YOUTUBE:END -->
 
 #### Business
