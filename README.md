@@ -74,11 +74,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Shocking reality of high paying Programming jobs in 2023](https://www.youtube.com/watch?v=lP86g51V91Q)
-- [How to install React in 2023 - new react.dev Website](https://www.youtube.com/watch?v=DOC3MyuuWhM)
-- [Facing the Future: The Truth About Artificial Intelligence and Our Jobs - Bangla](https://www.youtube.com/watch?v=BihZd2x8Qh8)
-- [Things I wish I knew as a Junior Web Developer - Sumit Saha - BASIS SoftExpo 2023](https://www.youtube.com/watch?v=56zUkaXJnUA)
-- [Learn with Sumit website platform overview - Think in a Redux way course](https://www.youtube.com/watch?v=0AAgbrTFaTo)
+- [#122 JavaScript Bangla Tutorial | JS JSON | Introduction to JSON](https://www.youtube.com/watch?v=xmsSoJ-PJUU)
+- [#126 JavaScript Bangla Tutorial | JS JSON | JSON Parse](https://www.youtube.com/watch?v=cv2aJA-x2Bg)
+- [#129 JavaScript Bangla Tutorial | JS JSON | JSON Server](https://www.youtube.com/watch?v=wU9x2Xp-SIQ)
+- [#125 JavaScript Bangla Tutorial | JS JSON | JSON Data types](https://www.youtube.com/watch?v=j_8yYuoessc)
+- [#124 JavaScript Bangla Tutorial | JS JSON | JSON vs XML](https://www.youtube.com/watch?v=f7MWPiO5ohc)
 <!-- YOUTUBE:END -->
 
 #### Business
