@@ -74,11 +74,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [devConf 1 0   Developer Conference by Learn with Sumit](https://www.youtube.com/watch?v=uzxQZDaEwWo)
 - [#122 JavaScript Bangla Tutorial | JS JSON | Introduction to JSON](https://www.youtube.com/watch?v=xmsSoJ-PJUU)
 - [#126 JavaScript Bangla Tutorial | JS JSON | JSON Parse](https://www.youtube.com/watch?v=cv2aJA-x2Bg)
 - [#129 JavaScript Bangla Tutorial | JS JSON | JSON Server](https://www.youtube.com/watch?v=wU9x2Xp-SIQ)
 - [#125 JavaScript Bangla Tutorial | JS JSON | JSON Data types](https://www.youtube.com/watch?v=j_8yYuoessc)
-- [#124 JavaScript Bangla Tutorial | JS JSON | JSON vs XML](https://www.youtube.com/watch?v=f7MWPiO5ohc)
 <!-- YOUTUBE:END -->
 
 #### Business
