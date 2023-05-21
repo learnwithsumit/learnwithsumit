@@ -74,11 +74,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [devConf 1.0 - Prompt Engineering - AI Superpower for Web Development](https://www.youtube.com/watch?v=L6jGKB7sbFM)
 - [devConf 1.0 - Uncover the power of Code - Learn with Sumit](https://www.youtube.com/watch?v=WuPr3n1nu6U)
 - [Mastering on React JS, Next JS &amp; Prisma - @RabbilHasanRupom @LearnwithSumit &amp; Ostad](https://www.youtube.com/watch?v=24vxx8OWjPc)
 - [devConf 1 0   Developer Conference by Learn with Sumit](https://www.youtube.com/watch?v=uzxQZDaEwWo)
 - [#122 JavaScript Bangla Tutorial | JS JSON | Introduction to JSON](https://www.youtube.com/watch?v=xmsSoJ-PJUU)
-- [#126 JavaScript Bangla Tutorial | JS JSON | JSON Parse](https://www.youtube.com/watch?v=cv2aJA-x2Bg)
 <!-- YOUTUBE:END -->
 
 #### Business
