@@ -74,11 +74,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [devConf 1.0 - Crash Course - Blockchain &amp; Decentralized Web - Samnan Rahee](https://www.youtube.com/watch?v=I6iT_rQTw3U)
+- [devConf 1.0 - Building Stronger Profile - Story of React Play](https://www.youtube.com/watch?v=_OSmgfuEDzc)
 - [devconf 1.0 - Crash Course - Cloud Computing for everyone - Foyzul Karim](https://www.youtube.com/watch?v=dveHs4mI4Ao)
 - [devConf 1.0 - Prompt Engineering - AI Superpower for Web Development](https://www.youtube.com/watch?v=L6jGKB7sbFM)
 - [devconf 1.0 - Crash Course - Web Automation - Md. Abu Taher](https://www.youtube.com/watch?v=6yfDMfPEibQ)
-- [devConf 1.0 - Uncover the power of Code - Learn with Sumit](https://www.youtube.com/watch?v=WuPr3n1nu6U)
-- [Mastering on React JS, Next JS &amp; Prisma - @RabbilHasanRupom @LearnwithSumit &amp; Ostad](https://www.youtube.com/watch?v=24vxx8OWjPc)
 <!-- YOUTUBE:END -->
 
 #### Business
