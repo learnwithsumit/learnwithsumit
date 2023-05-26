@@ -74,11 +74,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [devConf 1.0 - Becoming an Engineer from a Coder - Zulkarnine Mahmud](https://www.youtube.com/watch?v=UerXMsLDMt8)
+- [devconf 1.0 - Crash Course - Web Components - Building Custom UI Elements - HM Nayem](https://www.youtube.com/watch?v=o_kJbL7r4sk)
 - [devconf 1.0 - Crash Course - WordPress Plugin Development - Rasel Ahmed](https://www.youtube.com/watch?v=-uV0TR8GbJk)
 - [devConf 1.0 - Crash Course - Hands on RUST Programming - Farhad Naeem](https://www.youtube.com/watch?v=DXhYEzCJKcY)
 - [devConf 1.0 - WordPress Career Opportunities - Sabuj Kundu](https://www.youtube.com/watch?v=WLOemwdi4Pc)
-- [devConf 1.0 - Crash Course - Blockchain &amp; Decentralized Web - Samnan Rahee](https://www.youtube.com/watch?v=I6iT_rQTw3U)
-- [devConf 1.0 - Building Stronger Profile - Story of React Play](https://www.youtube.com/watch?v=_OSmgfuEDzc)
 <!-- YOUTUBE:END -->
 
 #### Business
