@@ -74,10 +74,10 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [TechnoNext presents devConf 1.0 powered by bKash Limited and Showwcase](https://www.youtube.com/watch?v=9HRRIjx71Kg)
-- [TechnoNext presents devConf 1.0 powered by bKash Limited and Showwcase](https://www.youtube.com/watch?v=xqi_zMR-VnI)
-- [TechnoNext presents devConf 1.0 powered by bKash Limited and Showwcase](https://www.youtube.com/watch?v=xo7ukQaa1AQ)
-- [TechnoNext presents devConf 1.0 powered by bKash Limited and Showwcase](https://www.youtube.com/watch?v=e1bAqdy3pS4)
+- [devConf 1.0 Live - Part 4](https://www.youtube.com/watch?v=9HRRIjx71Kg)
+- [devConf 1.0 Live - Part 3](https://www.youtube.com/watch?v=xqi_zMR-VnI)
+- [devConf 1.0 Live - Part 2](https://www.youtube.com/watch?v=xo7ukQaa1AQ)
+- [devConf 1.0 Live - Part 1](https://www.youtube.com/watch?v=e1bAqdy3pS4)
 - [devConf 1.0 - Machine Learning for Beginners - Abdullah Al Mamun](https://www.youtube.com/watch?v=l4y_L1ubf4k)
 <!-- YOUTUBE:END -->
 
