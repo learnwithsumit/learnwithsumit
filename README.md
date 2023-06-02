@@ -74,11 +74,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [devConf 1.0 by Learn with Sumit - Full video - DhakaLIVE](https://www.youtube.com/watch?v=H5vdb8RaqO8)
 - [Official Aftermovie - devConf 1.0 by Learn with Sumit](https://www.youtube.com/watch?v=ER_y4tIbTNM)
 - [devConf 1.0 Live - Part 4](https://www.youtube.com/watch?v=9HRRIjx71Kg)
 - [devConf 1.0 Live - Part 3](https://www.youtube.com/watch?v=xqi_zMR-VnI)
 - [devConf 1.0 Live - Part 2](https://www.youtube.com/watch?v=xo7ukQaa1AQ)
-- [devConf 1.0 Live - Part 1](https://www.youtube.com/watch?v=e1bAqdy3pS4)
 <!-- YOUTUBE:END -->
 
 #### Business
