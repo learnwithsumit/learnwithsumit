@@ -74,11 +74,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Mastering the art of Job Interview - @Foyzul &amp; @LearnwithSumit](https://www.youtube.com/watch?v=UBW_yJhDdSg)
 - [Full stack: A dream for some and joke for many - @tapasadhikary - devConf 1.0](https://www.youtube.com/watch?v=5Lkez-i-Ae4)
 - [Streamlining Your Workflow for Greater Efficiency - Saif Hassan - devConf 1.0](https://www.youtube.com/watch?v=cPO_gmz9OR8)
 - [devConf 1.0 by Learn with Sumit - Full video - DhakaLIVE](https://www.youtube.com/watch?v=H5vdb8RaqO8)
 - [Official Aftermovie - devConf 1.0 by Learn with Sumit](https://www.youtube.com/watch?v=ER_y4tIbTNM)
-- [devConf 1.0 Live - Part 4](https://www.youtube.com/watch?v=9HRRIjx71Kg)
 <!-- YOUTUBE:END -->
 
 #### Business
