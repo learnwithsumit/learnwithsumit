@@ -74,11 +74,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [OOP Simplified: Learn Object Oriented Programming the Easy Way](https://www.youtube.com/watch?v=ZmHdruyVB5M)
 - [JavaScript Interview Questions | Top 3 Common Problems Solved](https://www.youtube.com/watch?v=DehiMm4e1Lw)
 - [Freelancing in Web Development   Overcoming Challenges and Succeeding as a Professional](https://www.youtube.com/watch?v=haUFpH1qWdw)
 - [Tug-of-War : PHP vs JavaScript - Hasin Hayder vs Anam Ahmed - devConf 1.0](https://www.youtube.com/watch?v=iw3ib5M6vcI)
 - [MERN Stack Explained: Roadmap, Next.js Integration, and Mastering Rendering Techniques](https://www.youtube.com/watch?v=7unPQjNducY)
-- [ECMAScript 2023 - ES14: Discover Four Exciting New Array Features!](https://www.youtube.com/watch?v=qaQZZmBTTIw)
 <!-- YOUTUBE:END -->
 
 #### Business
