@@ -74,11 +74,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Mastering OOP - Your Ultimate Tutorial on Encapsulation, Inheritance, Abstraction and Polymorphism](https://www.youtube.com/watch?v=COn9x4NbOBY)
 - [Think in a Redux way - On demand video only React Redux course by Learn with Sumit](https://www.youtube.com/watch?v=2Z76jD40rSY)
 - [OOP Simplified: Learn Object Oriented Programming the Easy Way](https://www.youtube.com/watch?v=ZmHdruyVB5M)
 - [JavaScript Interview Questions | Top 3 Common Problems Solved](https://www.youtube.com/watch?v=DehiMm4e1Lw)
 - [Freelancing in Web Development   Overcoming Challenges and Succeeding as a Professional](https://www.youtube.com/watch?v=haUFpH1qWdw)
-- [Tug-of-War : PHP vs JavaScript - Hasin Hayder vs Anam Ahmed - devConf 1.0](https://www.youtube.com/watch?v=iw3ib5M6vcI)
 <!-- YOUTUBE:END -->
 
 #### Business
