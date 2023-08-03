@@ -74,11 +74,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Mock Interview - Junior React Developer at Example company - @LearnwithSumit &amp; @Foyzul](https://www.youtube.com/watch?v=7lcnUKmKf5g)
 - [কন্টেন্ট ক্রিয়েশন এবং আমাদের দৃষ্টিভঙ্গি](https://www.youtube.com/watch?v=GJfIp34o_dQ)
 - [Memoization - A Powerful Technique for JavaScript Optimization](https://www.youtube.com/watch?v=pIsFoLAhPrk)
 - [Mastering OOP - Your Ultimate Tutorial on Encapsulation, Inheritance, Abstraction and Polymorphism](https://www.youtube.com/watch?v=COn9x4NbOBY)
 - [Think in a Redux way - On demand video only React Redux course by Learn with Sumit](https://www.youtube.com/watch?v=2Z76jD40rSY)
+- [OOP Simplified: Learn Object Oriented Programming the Easy Way](https://www.youtube.com/watch?v=ZmHdruyVB5M)
 <!-- YOUTUBE:END -->
 
 #### Business
