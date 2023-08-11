@@ -74,11 +74,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [My favorite 10 Content Creators in Bangladesh](https://www.youtube.com/watch?v=foS4RnUzCxk)
 - [যে দশটি কারণে চাকরি পেয়েও ফ্রেশাররা ঝরে যায়](https://www.youtube.com/watch?v=ThOGtDDHTMQ)
 - [Full Stack Engineering - Develop Yourself to be a Developer - Sumit Saha at CSE Club of JUST](https://www.youtube.com/watch?v=-JoO7A6gxyc)
 - [Tricky Interview Questions in JavaScript: Understanding Closure, Async-Await, and Scope](https://www.youtube.com/watch?v=qSD74GKrNaA)
 - [কন্টেন্ট ক্রিয়েশন এবং আমাদের দৃষ্টিভঙ্গি](https://www.youtube.com/watch?v=GJfIp34o_dQ)
-- [Memoization - A Powerful Technique for JavaScript Optimization](https://www.youtube.com/watch?v=pIsFoLAhPrk)
 <!-- YOUTUBE:END -->
 
 #### Business
