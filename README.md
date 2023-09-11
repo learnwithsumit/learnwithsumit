@@ -74,11 +74,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Is javascript single threaded? - Web Workers API explained](https://www.youtube.com/watch?v=hhGB2fH7_XQ)
 - [Intersection Observer API in JavaScript | Web Development Tutorial](https://www.youtube.com/watch?v=D1XeL4HF8lI)
 - [যে কারণে কোনদিন আপনি জাভাস্ক্রিপ্ট শিখতে পারবেন না - Weird JavaScript - Funny Video](https://www.youtube.com/watch?v=7tfh5K1PN7c)
 - [JaduPc Pro - Initial Reaction by Learn with Sumit](https://www.youtube.com/watch?v=SPgeDbl2KRo)
 - [My favorite 10 Content Creators in Bangladesh](https://www.youtube.com/watch?v=foS4RnUzCxk)
-- [যে দশটি কারণে চাকরি পেয়েও ফ্রেশাররা ঝরে যায়](https://www.youtube.com/watch?v=ThOGtDDHTMQ)
 <!-- YOUTUBE:END -->
 
 #### Business
