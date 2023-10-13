@@ -74,11 +74,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [ভ্যানিলা জাভাস্ক্রিপ্ট বনাম ফ্রেমওয়ার্ক](https://www.youtube.com/watch?v=R9NqoHMDoH4)
 - [Master Node.js Multithreading with Worker Threads | Boost Your Application&#39;s Performance!](https://www.youtube.com/watch?v=TyTdnMHZ5Fk)
 - [JavaScript Object.groupBy&lpar;&rpar; Mastery: Grouping Made Effortless!](https://www.youtube.com/watch?v=AqbDkXQJbH4)
 - [Master React State Management with Preact Signals | Step-by-Step Tutorial](https://www.youtube.com/watch?v=oeYnAFrAuVQ)
 - [আপনাকে দিয়ে কি প্রোগ্রামিং হবে ?](https://www.youtube.com/watch?v=kwvY4ylpD4c)
-- [কোড দেখলে বুঝি কিন্তু করতে দিলে পারিনা - Why most programmers fail](https://www.youtube.com/watch?v=HbEl_NHeHiU)
 <!-- YOUTUBE:END -->
 
 #### Business
