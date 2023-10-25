@@ -74,11 +74,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [পেশাদার অভিজ্ঞতা ছাড়াই কিভাবে React জব পাওয়া যায়](https://www.youtube.com/watch?v=sN4yQlrPLoE)
 - [HTML tags and attributes that you may not have encountered before](https://www.youtube.com/watch?v=Q52Zcq09Hrg)
 - [Mastering JavaScript Event Propagation - Bubbling vs. Capturing Explained](https://www.youtube.com/watch?v=XnezDeTKVUY)
 - [Mastering JavaScript Event Delegation: Simplifying DOM Interaction for Web Developers!](https://www.youtube.com/watch?v=3wDARp0hEdY)
 - [ভ্যানিলা জাভাস্ক্রিপ্ট বনাম ফ্রেমওয়ার্ক](https://www.youtube.com/watch?v=R9NqoHMDoH4)
-- [Master Node.js Multithreading with Worker Threads | Boost Your Application&#39;s Performance!](https://www.youtube.com/watch?v=TyTdnMHZ5Fk)
 <!-- YOUTUBE:END -->
 
 #### Business
