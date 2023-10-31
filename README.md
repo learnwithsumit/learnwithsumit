@@ -41,7 +41,7 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
     <tr>
       <td><a href="https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme" target="_blank">Learn with Sumit Theme</a></td>
       <td>Visual Studio Code Editor Theme</td>
-      <td>15K+ installs</td>
+      <td>84K+ installs</td>
     </tr>
     <tr>
       <td>Listenyzen</td>
