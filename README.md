@@ -74,11 +74,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Episode 1 - The Art of Open Source Contribution - Dealing with Large Codebases](https://www.youtube.com/watch?v=zQVTK-4PshU)
 - [SUMIT ends; TAPAS starts - series of 10 exclusive hands-on Live Sessions for Web Developers](https://www.youtube.com/watch?v=UXmQmYKBC7o)
 - [JavaScript NaN Explained - Unraveling the Mystery and Mastering Equality Algorithms](https://www.youtube.com/watch?v=bTCP1UErhRM)
 - [React.js শেখার জন্য কতটুকু JavaScript জানতে হবে?](https://www.youtube.com/watch?v=6Nx9ZM_8Vwo)
 - [পেশাদার অভিজ্ঞতা ছাড়াই কিভাবে React জব পাওয়া যায়](https://www.youtube.com/watch?v=sN4yQlrPLoE)
-- [HTML tags and attributes that you may not have encountered before](https://www.youtube.com/watch?v=Q52Zcq09Hrg)
 <!-- YOUTUBE:END -->
 
 #### Business
