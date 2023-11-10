@@ -74,11 +74,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Episode 3 - In Search of Clean Code - Exploring its Existence and Limits](https://www.youtube.com/watch?v=dM7YWjzKsYc)
 - [Episode 2 - JavaScript&#39;s Unusual Nature - Dispelling Myths and Misconceptions](https://www.youtube.com/watch?v=klE-h6z0yxM)
 - [কার্ড থেকে বিকাশ-এ, টাকা আসবে &#39;আরামসে&#39; !  - স্পন্সর্ড কন্টেন্ট](https://www.youtube.com/watch?v=EUZ9FIU4vcI)
 - [Episode 1 - The Art of Open Source Contribution - Dealing with Large Codebases](https://www.youtube.com/watch?v=zQVTK-4PshU)
 - [SUMIT ends; TAPAS starts - series of 10 exclusive hands-on Live Sessions for Web Developers](https://www.youtube.com/watch?v=UXmQmYKBC7o)
-- [JavaScript NaN Explained - Unraveling the Mystery and Mastering Equality Algorithms](https://www.youtube.com/watch?v=bTCP1UErhRM)
 <!-- YOUTUBE:END -->
 
 #### Business
