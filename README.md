@@ -74,11 +74,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Episode 4 - JavaScript Framework wonders  Solid.js](https://www.youtube.com/watch?v=WebNVGbpi60)
 - [বাংলাদেশে বানানো ওপেন-সোর্স রিয়্যাক্ট ইউ.আই কম্পোনেন্ট লাইব্রেরি - Keep React](https://www.youtube.com/watch?v=mVXNUMBtGEA)
 - [Episode 3 - In Search of Clean Code - Exploring its Existence and Limits](https://www.youtube.com/watch?v=dM7YWjzKsYc)
 - [Episode 2 - JavaScript&#39;s Unusual Nature - Dispelling Myths and Misconceptions](https://www.youtube.com/watch?v=klE-h6z0yxM)
 - [কার্ড থেকে বিকাশ-এ, টাকা আসবে &#39;আরামসে&#39; !  - স্পন্সর্ড কন্টেন্ট](https://www.youtube.com/watch?v=EUZ9FIU4vcI)
-- [Episode 1 - The Art of Open Source Contribution - Dealing with Large Codebases](https://www.youtube.com/watch?v=zQVTK-4PshU)
 <!-- YOUTUBE:END -->
 
 #### Business
