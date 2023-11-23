@@ -74,11 +74,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to become a Self-taught Web Developer](https://www.youtube.com/watch?v=XhaBrrOEahU)
 - [Episode 6 - JavaScript Framework wonders - Astro](https://www.youtube.com/watch?v=ZBTnMiVfgq4)
 - [Episode 5 - Coding and Beyond - The Modern Web Developer&#39;s Toolkit](https://www.youtube.com/watch?v=Lr_96i6nMlI)
 - [Episode 4 - JavaScript Framework wonders  Solid.js](https://www.youtube.com/watch?v=WebNVGbpi60)
 - [বাংলাদেশে বানানো ওপেন-সোর্স রিয়্যাক্ট ইউ.আই কম্পোনেন্ট লাইব্রেরি - Keep React](https://www.youtube.com/watch?v=mVXNUMBtGEA)
-- [Episode 3 - In Search of Clean Code - Exploring its Existence and Limits](https://www.youtube.com/watch?v=dM7YWjzKsYc)
 <!-- YOUTUBE:END -->
 
 #### Business
