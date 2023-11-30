@@ -75,7 +75,7 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 
 <!-- YOUTUBE:START -->
 - [Episode 8 - JavaScript Unlocked - Essential Concepts for Interview Success](https://www.youtube.com/watch?v=Qr_SGpBWvsY)
-- [cn&lpar;&rpar; - Magical utility for every Tailwind Developer &lpar;clsx + twMerge&rpar;](https://www.youtube.com/watch?v=y7DrXkGj7AU)
+- [Tailwind CSS Bangla Tutorial || cn&lpar;&rpar; - Magical utility for every Tailwind Developer &lpar;clsx + twMerge&rpar;](https://www.youtube.com/watch?v=y7DrXkGj7AU)
 - [Episode 7 - Let&#39;s talk about Bun - is it the end of Node.js?](https://www.youtube.com/watch?v=gKxxkkUxack)
 - [How to become a Self-taught Web Developer](https://www.youtube.com/watch?v=XhaBrrOEahU)
 - [Episode 6 - JavaScript Framework wonders - Astro](https://www.youtube.com/watch?v=ZBTnMiVfgq4)
