@@ -74,11 +74,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [What&#39;s new in Tailwind v4 - Tailwind is now 10x faster!](https://www.youtube.com/watch?v=THeGVRJwIYM)
 - [Front-end Web Development - Do you need Data Structures and Algorithms?](https://www.youtube.com/watch?v=LYdtvpAFmc8)
 - [How to find a job as an Entry Level Developer - An in-depth guideline](https://www.youtube.com/watch?v=b7mpUrheMpc)
 - [Can a Programmer become Entrepreneur? - Moving from Developer to Entrepreneur](https://www.youtube.com/watch?v=GSCFD6c_SeU)
 - [Power of Console - Five things browser console can do other than just logging](https://www.youtube.com/watch?v=QkZoqLlewPM)
-- [Navigating real world React.js Development: Practical Insights and Tips](https://www.youtube.com/watch?v=_yFjBtRwbFE)
 <!-- YOUTUBE:END -->
 
 #### Business
