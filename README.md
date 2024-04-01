@@ -74,11 +74,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Will Devin replace Programmers and Software Engineers?](https://www.youtube.com/watch?v=spc56idbO0I)
 - [আলোকিত মানুষের সাথে ইফতার আড্ডা @LearnwithSumit](https://www.youtube.com/watch?v=0mzjOwim-xY)
 - [React 19 new Features - What&#39;s new in React 19](https://www.youtube.com/watch?v=-AtfFUeeuIs)
 - [Keep Design System - Get Your Perfect Design in minutes](https://www.youtube.com/watch?v=aMkJFwVRi2o)
 - [What&#39;s new in Tailwind v4 - Tailwind is now 10x faster!](https://www.youtube.com/watch?v=THeGVRJwIYM)
-- [Front-end Web Development - Do you need Data Structures and Algorithms?](https://www.youtube.com/watch?v=LYdtvpAFmc8)
 <!-- YOUTUBE:END -->
 
 #### Business
