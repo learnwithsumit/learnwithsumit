@@ -74,11 +74,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Google&#39;s XYZ formula for landing a Job - Resume writing guide](https://www.youtube.com/watch?v=daql1aB2b_M)
 - [JavaScript or Python - Which should you learn?](https://www.youtube.com/watch?v=Lx1FiESzm-U)
 - [Will Devin replace Programmers and Software Engineers?](https://www.youtube.com/watch?v=spc56idbO0I)
 - [আলোকিত মানুষের সাথে ইফতার আড্ডা @LearnwithSumit](https://www.youtube.com/watch?v=0mzjOwim-xY)
 - [React 19 new Features - What&#39;s new in React 19](https://www.youtube.com/watch?v=-AtfFUeeuIs)
-- [Keep Design System - Get Your Perfect Design in minutes](https://www.youtube.com/watch?v=aMkJFwVRi2o)
 <!-- YOUTUBE:END -->
 
 #### Business
