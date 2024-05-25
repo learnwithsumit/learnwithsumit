@@ -74,11 +74,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Sumit Saha speech at Youth Tech Summit 2024](https://www.youtube.com/watch?v=GFyqryC0UWA)
 - [Importance of legacy React.js code in Job Market](https://www.youtube.com/watch?v=SQxJRPQK0KI)
 - [React Redux Crash Course Bangla with Redux Toolkit](https://www.youtube.com/watch?v=qhll3DXuLHI)
 - [Google&#39;s XYZ formula for landing a Job - Resume writing guide](https://www.youtube.com/watch?v=daql1aB2b_M)
 - [JavaScript or Python - Which should you learn?](https://www.youtube.com/watch?v=Lx1FiESzm-U)
-- [Will Devin replace Programmers and Software Engineers?](https://www.youtube.com/watch?v=spc56idbO0I)
 <!-- YOUTUBE:END -->
 
 #### Business
