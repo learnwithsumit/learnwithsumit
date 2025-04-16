@@ -36,7 +36,7 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
     <tr>
       <td><a href="https://learnwithsumit.com" target="_blank">Learn with Sumit</a></td>
       <td>Programming related Learning Platform for Bangladesh</td>
-      <td>200K+ active learners</td>
+      <td>300K+ active learners</td>
     </tr>
     <tr>
       <td><a href="https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme" target="_blank">Learn with Sumit Theme</a></td>
@@ -66,7 +66,7 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
     <tr>
       <td>Microzen</td>
       <td>Microcredit Automation System with AI based Decision Support System</td>
-      <td>10 million+ Consumer Financial Data Managed Already</td>
+      <td>15 million+ Consumer Financial Data Managed Already</td>
     </tr>
   </tbody>
 </table>
