@@ -74,11 +74,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [View Transition API Bangla Tutorial | New CSS Animation Power!](https://www.youtube.com/watch?v=yyBlyzGX7B8)
 - [Learn Fullstack - the Scrimba way](https://www.youtube.com/watch?v=RzlQ-CEp90A)
 - [চাকরির প্রস্তুতি থেকে প্রজেক্ট ডেলিভারি - রিয়্যাক্টিভ এক্সিলারেটর](https://www.youtube.com/watch?v=JFH9AA6Hl8g)
 - [নেক্সট জেএসের আদ্যোপান্ত - সাথে কিছু অপ্রিয় সত্য - রিয়্যাক্টিভ এক্সিলারেটর](https://www.youtube.com/watch?v=O8yVi12Hsgg)
 - [React ডেভেলপমেন্ট নাকি ইঞ্জিনিয়ারিং - রিয়্যাক্টিভ এক্সিলারেটর - ব্যাচ ৩](https://www.youtube.com/watch?v=xONmFjXCX0M)
-- [রিয়্যাক্ট শেখার এটাই শেষ কথা - রিয়্যাক্টিভ এক্সিলারেটর - ব্যাচ ৩](https://www.youtube.com/watch?v=q9Zz6RjGnAg)
 <!-- YOUTUBE:END -->
 
 #### Business
