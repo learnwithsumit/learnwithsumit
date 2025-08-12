@@ -74,11 +74,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [AI Roadmap 2025: How to Learn AI from Scratch &lpar;Bangla&rpar; | For Developers &amp; Beginners](https://www.youtube.com/watch?v=lg4uP7QjIZk)
 - [Next.js Streaming Tutorial Bangla — SSR, React Suspense &amp; Loading Skeleton in Next.js 15](https://www.youtube.com/watch?v=26fu7x8jv_U)
 - [Next.js Caching &amp; Rendering Masterclass 2025 &lpar;Bangla&rpar;](https://www.youtube.com/watch?v=K0GT0DcfXIg)
 - [MCP সার্ভার কি? সহজ কনসেপ্ট ও TypeScript SDK উদাহরণ](https://www.youtube.com/watch?v=7HjDcv75spg)
 - [View Transition API Bangla Tutorial | New CSS Animation Power!](https://www.youtube.com/watch?v=yyBlyzGX7B8)
-- [Learn Fullstack - the Scrimba way](https://www.youtube.com/watch?v=RzlQ-CEp90A)
 <!-- YOUTUBE:END -->
 
 #### Business
