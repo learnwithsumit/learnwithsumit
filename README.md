@@ -74,11 +74,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How To Be A Better AI Engineer](https://www.youtube.com/watch?v=KzoccbLyyYw)
 - [Generative AI Roadmap 2025 | Beginner to Pro Guide &lpar;বাংলায় সহজভাবে&rpar;](https://www.youtube.com/watch?v=K2hHOAtkwwk)
 - [ভাল থাকুন - ভাল রাখুন](https://www.youtube.com/watch?v=W34wJS1FKGo)
 - [AI Roadmap 2025: How to Learn AI from Scratch &lpar;Bangla&rpar; | For Developers &amp; Beginners](https://www.youtube.com/watch?v=lg4uP7QjIZk)
 - [Next.js Streaming Tutorial Bangla — SSR, React Suspense &amp; Loading Skeleton in Next.js 15](https://www.youtube.com/watch?v=26fu7x8jv_U)
-- [Next.js Caching &amp; Rendering Masterclass 2025 &lpar;Bangla&rpar;](https://www.youtube.com/watch?v=K0GT0DcfXIg)
 <!-- YOUTUBE:END -->
 
 #### Business
