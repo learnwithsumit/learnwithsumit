@@ -74,11 +74,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Module 3 - Course Outline - Reactive Accelerator - Bangla React Next.js Course](https://www.youtube.com/watch?v=QJbLTRzNzKg)
 - [Module 2 - Course Outline - Reactive Accelerator - Bangla React Next.js Course](https://www.youtube.com/watch?v=5hBAgtFbALw)
 - [Module 1 - Course Outline - Reactive Accelerator - Bangla React Next.js Course](https://www.youtube.com/watch?v=MQROx_r0ZKo)
 - [How To Be A Better Engineer with AI](https://www.youtube.com/watch?v=KzoccbLyyYw)
 - [Generative AI Roadmap 2025 | Beginner to Pro Guide &lpar;বাংলায় সহজভাবে&rpar;](https://www.youtube.com/watch?v=K2hHOAtkwwk)
-- [ভাল থাকুন - ভাল রাখুন](https://www.youtube.com/watch?v=W34wJS1FKGo)
 <!-- YOUTUBE:END -->
 
 #### Business
