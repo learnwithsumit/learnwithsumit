@@ -74,11 +74,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Module 5.1 - Course Outline - Reactive Accelerator - Bangla React Next.js Course](https://www.youtube.com/watch?v=ncGEUk8eD90)
 - [Module 4.2 - Course Outline - Reactive Accelerator - Bangla React Next.js Course](https://www.youtube.com/watch?v=j36Q8fddqNE)
 - [Module 4.1 - Course Outline - Reactive Accelerator - Bangla React Next.js Course](https://www.youtube.com/watch?v=lzCIvRBVJZg)
 - [Module 3 - Course Outline - Reactive Accelerator - Bangla React Next.js Course](https://www.youtube.com/watch?v=QJbLTRzNzKg)
 - [Module 2 - Course Outline - Reactive Accelerator - Bangla React Next.js Course](https://www.youtube.com/watch?v=5hBAgtFbALw)
-- [Module 1 - Course Outline - Reactive Accelerator - Bangla React Next.js Course](https://www.youtube.com/watch?v=MQROx_r0ZKo)
 <!-- YOUTUBE:END -->
 
 #### Business
