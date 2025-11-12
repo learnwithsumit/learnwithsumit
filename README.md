@@ -75,7 +75,7 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 
 <!-- YOUTUBE:START -->
 - [LAST CALL TO ENROLL IN REACTIVE ACCELERATOR](https://www.youtube.com/watch?v=SUdCCIng4e0)
-- [AI আপনাকে বাঁচাবে না, শেখাটাই বাঁচাবে!](https://www.youtube.com/watch?v=67sqj-FZUcc)
+- [You’ll Realize This Video Was Right — Two Years Later!](https://www.youtube.com/watch?v=67sqj-FZUcc)
 - [How we do Project Analysis in Reactive Accelerator Course](https://www.youtube.com/watch?v=IkTUH523pVY)
 - [Breakdown of Backend in the React Accelerator Course | API, MongoDB, GraphQL, Prisma, AWS &amp; Docker](https://www.youtube.com/watch?v=FcWXe6X-jS4)
 - [Module 5.2 - Course Outline - Reactive Accelerator - Bangla React Next.js Course](https://www.youtube.com/watch?v=NyLiOaT9q38)
