@@ -1,4 +1,4 @@
-![Github Banner](assets/github-banner.jpg)
+![Github Banner](https://www.sumitsaha.me/images/sumitsaha-website-og.jpg?v=2)
 
 ## Hi there my gorgeous friend <img src="assets/hello.gif" width="28px" alt="hi">
 
