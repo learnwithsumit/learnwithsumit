@@ -74,11 +74,11 @@ I'm Sumit Saha (Dhaka, Bangladesh), a Bangladeshi <img src="assets/bangladesh.pn
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [AI দিয়ে 1 ক্লিকে SaaS Business তৈরি করুন! | Auto Build MCP Servers Cursor &amp; MCP ize](https://www.youtube.com/watch?v=nZ_ugQlpo7k)
 - [n8n Bangla Tutorial 2026 - বিনা কোডিংয়ে AI Messenger Bot বানান](https://www.youtube.com/watch?v=8p2azzYA_RI)
 - [OpenClaw Custom Skill: Telegram AI Agent তৈরি করুন! | Automation](https://www.youtube.com/watch?v=jUDMAH8pGKI)
 - [Build &amp; Monetize Your First MCP Server &lpar;Bangla&rpar; | MCPize Tutorial](https://www.youtube.com/watch?v=opyVglTu_tM)
 - [OpenClaw VPS Setup Bangla Tutorial &lpar;Self-Hosted AI Agent&rpar; | ClawdBot/MoltBot](https://www.youtube.com/watch?v=OAutRvlPAmU)
-- [Next.js Deploy করুন নিজের VPS এ | Coolify Bangla Tutorial 2026](https://www.youtube.com/watch?v=hl3LNBpKVRc)
 <!-- YOUTUBE:END -->
 
 #### Business
