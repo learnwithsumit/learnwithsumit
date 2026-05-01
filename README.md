@@ -74,11 +74,11 @@ I'm Sumit Saha (Dhaka, Bangladesh), a Bangladeshi <img src="assets/bangladesh.pn
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Hermes Agent Tutorial: নিজের AI এজেন্ট বানান যা সারাজীবন মনে রাখবে! &lpar;Bangla&rpar;](https://www.youtube.com/watch?v=K6GOMfJo6Ic)
 - [Vibe Coding দিয়ে Website বানালাম! AI কি Developer-দের চাকরি খাবে?](https://www.youtube.com/watch?v=pXY1knaYNV4)
 - [Paperclip AI Full Tutorial &lpar;Bangla&rpar; - Automate Everything with AI Agents | VPS Setup](https://www.youtube.com/watch?v=CufnDJ1a2CY)
 - [AI দিয়ে 1 ক্লিকে SaaS Business তৈরি করুন! | Auto Build MCP Servers Cursor &amp; MCP ize](https://www.youtube.com/watch?v=nZ_ugQlpo7k)
 - [n8n Bangla Tutorial 2026 - বিনা কোডিংয়ে AI Messenger Bot বানান](https://www.youtube.com/watch?v=8p2azzYA_RI)
-- [OpenClaw Custom Skill: Telegram AI Agent তৈরি করুন! | Automation](https://www.youtube.com/watch?v=jUDMAH8pGKI)
 <!-- YOUTUBE:END -->
 
 #### Business
