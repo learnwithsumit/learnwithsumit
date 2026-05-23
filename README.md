@@ -74,11 +74,11 @@ I'm Sumit Saha (Dhaka, Bangladesh), a Bangladeshi <img src="assets/bangladesh.pn
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [AI DevOps: Automate MongoDB &amp; Backups with Claude Code &lpar;Zero Coding!&rpar;](https://www.youtube.com/watch?v=slJ5fhyI-0c)
 - [Dokploy Complete Tutorial in Bangla - Vercel &amp; Heroku এর সেরা Alternative!](https://www.youtube.com/watch?v=RZKpeNqlcDI)
 - [Hermes Agent Tutorial: নিজের AI এজেন্ট বানান যা সারাজীবন মনে রাখবে! &lpar;Bangla&rpar;](https://www.youtube.com/watch?v=K6GOMfJo6Ic)
 - [Vibe Coding দিয়ে Website বানালাম! AI কি Developer-দের চাকরি খাবে?](https://www.youtube.com/watch?v=pXY1knaYNV4)
 - [Paperclip AI Full Tutorial &lpar;Bangla&rpar; - Automate Everything with AI Agents | VPS Setup](https://www.youtube.com/watch?v=CufnDJ1a2CY)
-- [AI দিয়ে 1 ক্লিকে SaaS Business তৈরি করুন! | Auto Build MCP Servers Cursor &amp; MCP ize](https://www.youtube.com/watch?v=nZ_ugQlpo7k)
 <!-- YOUTUBE:END -->
 
 #### Business
