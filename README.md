@@ -74,11 +74,11 @@ I'm Sumit Saha (Dhaka, Bangladesh), a Bangladeshi <img src="assets/bangladesh.pn
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [n8n Automation Full Tutorial | Facebook Comment করলেই AI Messenger DM পাঠাবে](https://www.youtube.com/watch?v=9uo7W_DqUqc)
 - [শুধু প্রম্পট দিলেই তৈরি হবে UI! Build AI App with Gemini API #AI #WebDev #Shorts](https://www.youtube.com/shorts/ZN34gKtBRY4)
 - [UI ডিজাইনারদের দিন কি শেষ? Build Generative AI Apps with React &amp; Gemini](https://www.youtube.com/watch?v=D4YYXeEB5Jw)
 - [AI DevOps: Automate MongoDB &amp; Backups with Claude Code &lpar;Zero Coding!&rpar;](https://www.youtube.com/watch?v=slJ5fhyI-0c)
 - [Dokploy Complete Tutorial in Bangla - Vercel &amp; Heroku এর সেরা Alternative!](https://www.youtube.com/watch?v=RZKpeNqlcDI)
-- [Hermes Agent Tutorial: নিজের AI এজেন্ট বানান যা সারাজীবন মনে রাখবে! &lpar;Bangla&rpar;](https://www.youtube.com/watch?v=K6GOMfJo6Ic)
 <!-- YOUTUBE:END -->
 
 #### Business
