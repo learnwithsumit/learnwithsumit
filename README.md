@@ -74,11 +74,11 @@ I'm Sumit Saha (Dhaka, Bangladesh), a Bangladeshi <img src="assets/bangladesh.pn
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Prisma ORM Crash Course in Bangla | Next.js, MongoDB &amp; PostgreSQL Magic!](https://www.youtube.com/watch?v=QgREoATKO9s)
 - [Supabase Complete Crash Course in Bangla | React, RLS, Realtime &amp; Self-Hosting](https://www.youtube.com/watch?v=PJBHfF-BWlQ)
 - [n8n Automation Full Tutorial | Facebook Comment করলেই AI Messenger DM পাঠাবে](https://www.youtube.com/watch?v=9uo7W_DqUqc)
 - [শুধু প্রম্পট দিলেই তৈরি হবে UI! Build AI App with Gemini API #AI #WebDev #Shorts](https://www.youtube.com/shorts/ZN34gKtBRY4)
 - [UI ডিজাইনারদের দিন কি শেষ? Build Generative AI Apps with React &amp; Gemini](https://www.youtube.com/watch?v=D4YYXeEB5Jw)
-- [AI DevOps: Automate MongoDB &amp; Backups with Claude Code &lpar;Zero Coding!&rpar;](https://www.youtube.com/watch?v=slJ5fhyI-0c)
 <!-- YOUTUBE:END -->
 
 #### Business
