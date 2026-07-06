@@ -74,11 +74,11 @@ I'm Sumit Saha (Dhaka, Bangladesh), a Bangladeshi <img src="assets/bangladesh.pn
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Rate Limiting কীভাবে কাজ করে? 429, Token Bucket, Redis](https://www.youtube.com/shorts/5c8uORUlZEc)
 - [Strapi 5 Headless CMS Full Course &lpar;Bangla&rpar; | ফ্রন্টএন্ড ডেভেলপারদের সুপারপাওয়ার!](https://www.youtube.com/watch?v=sqefS-Avlz0)
 - [Frontend Developer-দের Backend সল্যুশন! Appwrite Crash Course in Bangla](https://www.youtube.com/watch?v=Pr57uxrZtoc)
 - [Git Cherry Pick Explained in 1 Minute! &lpar;Bangla&rpar;](https://www.youtube.com/shorts/N36kRD7xK6o)
 - [Prisma ORM Crash Course in Bangla | Next.js, MongoDB &amp; PostgreSQL Magic!](https://www.youtube.com/watch?v=QgREoATKO9s)
-- [Supabase Complete Crash Course in Bangla | React, RLS, Realtime &amp; Self-Hosting](https://www.youtube.com/watch?v=PJBHfF-BWlQ)
 <!-- YOUTUBE:END -->
 
 #### Business
