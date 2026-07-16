@@ -74,11 +74,11 @@ I'm Sumit Saha (Dhaka, Bangladesh), a Bangladeshi <img src="assets/bangladesh.pn
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [PostgreSQL Bangla Tutorial | Database Internal Architecture Explained in Bangla](https://www.youtube.com/watch?v=FHRRMfmogKU)
 - [Database Index আসলে কী? Query এত Fast হয় কীভাবে? #shorts](https://www.youtube.com/shorts/SocceK87RAY)
 - [Nginx Tutorial in Bangla: Why Your Web App Needs It in Production?](https://www.youtube.com/watch?v=mEAcyo2qdm8)
 - [Rate Limiting কীভাবে কাজ করে? 429, Token Bucket, Redis](https://www.youtube.com/shorts/5c8uORUlZEc)
 - [Strapi 5 Headless CMS Full Course &lpar;Bangla&rpar; | ফ্রন্টএন্ড ডেভেলপারদের সুপারপাওয়ার!](https://www.youtube.com/watch?v=sqefS-Avlz0)
-- [Frontend Developer-দের Backend সল্যুশন! Appwrite Crash Course in Bangla](https://www.youtube.com/watch?v=Pr57uxrZtoc)
 <!-- YOUTUBE:END -->
 
 #### Business
