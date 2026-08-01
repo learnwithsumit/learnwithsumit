@@ -74,11 +74,11 @@ I'm Sumit Saha (Dhaka, Bangladesh), a Bangladeshi <img src="assets/bangladesh.pn
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [New HTTP QUERY Method &lpar;RFC 10008&rpar; Explained in Bangla | Stop Using POST for Search](https://www.youtube.com/watch?v=duzIkACRny8)
 - [কোড না লিখেই Data Structure ও Algorithm শিখুন গল্পের মতো করে! | DSA tutorial in Bangla](https://www.youtube.com/watch?v=4cm9PMNikXM)
 - [Hashing আর Encryption কি একই জিনিস? | Cybersecurity in Bangla](https://www.youtube.com/shorts/T6M6JEJghGE)
 - [PostgreSQL Bangla Tutorial | Database Internal Architecture Explained in Bangla](https://www.youtube.com/watch?v=FHRRMfmogKU)
 - [Database Index আসলে কী? Query এত Fast হয় কীভাবে? #shorts](https://www.youtube.com/shorts/SocceK87RAY)
-- [Nginx Tutorial in Bangla: Why Your Web App Needs It in Production?](https://www.youtube.com/watch?v=mEAcyo2qdm8)
 <!-- YOUTUBE:END -->
 
 #### Business
