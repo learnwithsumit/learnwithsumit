@@ -74,11 +74,11 @@ I'm Sumit Saha (Dhaka, Bangladesh), a Bangladeshi <img src="assets/bangladesh.pn
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Backend গেল কোথায়? Puter.js Full Tutorial in Bangla | Zero-Cost AI App](https://www.youtube.com/watch?v=uPfsG8p2ds0)
-- [Astro 7 Crash Course in Bangla | Build &amp; Deploy a Fast Portfolio &amp; Blog Website](https://www.youtube.com/watch?v=QHFwp070Yts)
-- [NestJS Crash Course &lpar;Bangla&rpar; | Build &quot;HelpDesk Lite&quot; API | Architecture to Deployment](https://www.youtube.com/watch?v=K20Ej3iKLpw)
-- [Reactive Accelerator কোর্সটি কেন করবেন?এনরোলমেন্ট চলছে](https://www.youtube.com/watch?v=o-WbuOEmD0A)
-- [Reactive Accelerator Course - এনরোলমেন্ট শুরু হচ্ছে](https://www.youtube.com/watch?v=Dl4BD_emrwo)
+- [AI Powered Software Development to Entrepreneurship - Story of Vibe96.com](https://www.youtube.com/watch?v=-Cj2dRpfwTo)
+- [Stop Building Slow React Apps: The Local-First Architecture &lpar;RxDB Tutorial&rpar;](https://www.youtube.com/watch?v=cHfJnK8-H4I)
+- [Laravel 13 Crash Course &lpar;Bangla&rpar; | For JavaScript Developers](https://www.youtube.com/watch?v=0d-qYHjI0wg)
+- [PHP2Shell: আপনার ওয়েবসাইট কি সত্যিই নিরাপদ? | PHP Vulnerability &amp; Server Security](https://www.youtube.com/watch?v=bTLaykRkB7U)
+- [Hono Crash Course Bangla | Build a Complete Backend with Stripe Payment](https://www.youtube.com/watch?v=B7wBjfMoK48)
 <!-- YOUTUBE:END -->
 
 #### Business
