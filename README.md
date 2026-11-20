@@ -74,11 +74,11 @@ I'm Sumit Saha (Dhaka, Bangladesh), a Bangladeshi <img src="assets/bangladesh.pn
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Python FastAPI Tutorial for JavaScript Developers| Build &amp; Deploy a Python API](https://www.youtube.com/watch?v=8Dj1wH1UM5k)
 - [AI Powered Software Development to Entrepreneurship - Story of Vibe96.com](https://www.youtube.com/watch?v=-Cj2dRpfwTo)
 - [Stop Building Slow React Apps: The Local-First Architecture &lpar;RxDB Tutorial&rpar;](https://www.youtube.com/watch?v=cHfJnK8-H4I)
 - [Laravel 13 Crash Course &lpar;Bangla&rpar; | For JavaScript Developers](https://www.youtube.com/watch?v=0d-qYHjI0wg)
 - [PHP2Shell: আপনার ওয়েবসাইট কি সত্যিই নিরাপদ? | PHP Vulnerability &amp; Server Security](https://www.youtube.com/watch?v=bTLaykRkB7U)
-- [Hono Crash Course Bangla | Build a Complete Backend with Stripe Payment](https://www.youtube.com/watch?v=B7wBjfMoK48)
 <!-- YOUTUBE:END -->
 
 #### Business
